@@ -11,7 +11,6 @@ const IndexPage = () => (
     <h1>Bonsoir Guillaume !!!</h1>
     <p>C'est fou ça fonctionne bien</p>
     <p>je vais bientot aller dormir moi</p>
-    <p>Alright let me try</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
